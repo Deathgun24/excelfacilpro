@@ -1,1 +1,1 @@
-# Add the official Google AdSense ads.txt line here after approval.
+google.com, pub-9025221585291938, DIRECT, f08c47fec0942fa0

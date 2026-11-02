@@ -13,3 +13,15 @@ EXCELFACILPRO.COM - PUBLICATION CHECKLIST
 
 CONTACT EMAIL
 The site currently shows contacto@excelfacilpro.com. Configure Porkbun email forwarding for this address before relying on it.
+
+=== ADSENSE INSTALADO ===
+Publisher ID: ca-pub-9025221585291938
+El script oficial de AdSense ya esta incluido una vez en cada archivo HTML.
+ads.txt tambien esta preparado en la raiz del sitio.
+
+Despues de subir estos archivos a GitHub y esperar a que GitHub Pages despliegue:
+1. Abre https://excelfacilpro.com y confirma que carga.
+2. Vuelve a AdSense > Verify site ownership.
+3. Marca "I've placed the code".
+4. Pulsa Verify.
+5. Si verifica correctamente, pulsa Request review.
