@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',function(){var b=document.querySelector('.menu-btn');var n=document.querySelector('.nav-links');if(b&&n){b.addEventListener('click',function(){n.classList.toggle('open');});n.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){n.classList.remove('open');});});}});
